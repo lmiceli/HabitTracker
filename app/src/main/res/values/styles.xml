@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.Base" parent="AppTheme">
+        <item name="colorPrimary">@color/htPrimaryBackgroundColor</item>
+        <item name="colorPrimaryDark">@color/htSecondaryBackgroundColor</item>
+        <item name="colorAccent">@color/htColorBackgroundAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/htBackgroundColor</item>
+    </style>
+
+    <style name="Theme.HT" parent="Theme.Base">
+        <!--<item name=""></item>-->
+    </style>
+
+    <style name="ActionBarThemeOverlay" parent="">
+        <item name="android:textColorPrimary">@color/htPrimaryTextColor</item>
+        <item name="colorControlHighlight">@color/htBackgroundColor</item>
+        <item name="android:actionMenuTextColor">@color/htPrimaryTextColor</item>
+        <item name="android:textColorSecondary">@color/htPrimaryTextColor</item>
+        <item name="android:background">@color/htPrimaryBackgroundColor</item>
+        <item name="android:textColorHint">@color/htPrimaryTextColor</item>
+
+    </style>
+
+    <style name="ActionBar.TitleText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/htPrimaryTextColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.HT.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.HT.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <!--<style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+</resources>

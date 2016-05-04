@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754063779186",
+    "project_id": "eco-channel-129512"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754063779186:android:37f6250c252abf8e",
+        "android_client_info": {
+          "package_name": "com.lmiceli.habittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754063779186-baouog95ea1n875o3uiqvoqshqvkq847.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lmiceli.habittracker",
+            "certificate_hash": "7D63AE96399DDB2822B53E52E16CB851843DD26C"
+          }
+        },
+        {
+          "client_id": "754063779186-d5do6cejnncr38145lhbub6pv490u0l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOilJ6jaaZJpFu762GUgWd4eT1InT_oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="htPrimaryBackgroundColor">@color/md_indigo_900</color>
+    <color name="htSecondaryBackgroundColor">@color/md_indigo_700</color>
+    <color name="htColorBackgroundAccent">@color/md_indigo_500</color>
+    <color name="htBackgroundColor">@color/md_indigo_100</color>
+    <color name="htPrimaryTextColor">@color/md_indigo_50</color>
+    <color name="htSecondaryTextColor">@color/md_black_1000</color>
+
+</resources>
